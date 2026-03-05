@@ -13,15 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinearAlgebra/Vector Spaces.md",
+                "file": "LinearAlgebra/1.- Vector Spaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vector Spaces"
+              "title": "1.- Vector Spaces"
+            }
+          },
+          {
+            "id": "2ea9846f51183b17",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Index.base",
+                "viewName": "View"
+              },
+              "icon": "lucide-list",
+              "title": "Index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,13 +88,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5b85b15ac3201ab1",
@@ -166,13 +178,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "d5b3968a9d63f9f1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,14 +204,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cfc48943613e579",
+  "active": "2ea9846f51183b17",
   "lastOpenFiles": [
-    "Untitled.md",
-    "LinearAlgebra/Vector Spaces.md",
+    "LinearAlgebra/3.- Span and Linear Independence.md",
+    "Index.base",
+    "Untitled.base",
+    "LinearAlgebra/1.- Vector Spaces.md",
+    "LinearAlgebra/2.- Subspaces.md",
+    "2026-03-05.md",
     "Untitled.canvas",
+    "Untitled",
     "Welcome.md",
     "LinearAlgebra"
   ]

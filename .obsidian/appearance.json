@@ -1,5 +1,6 @@
 {
   "theme": "obsidian",
   "baseFontSize": 19,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "cssTheme": "Things"
 }
